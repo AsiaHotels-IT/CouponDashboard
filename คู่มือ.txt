@@ -1,0 +1,4 @@
+รันที่ http://127.0.0.1:5194/index.html
+คำสั่งติดตั้งใน terminal
+1. dotnet add package Microsoft.Data.SqlClient
+2. กดรันที่โปรแกรม VS Code เลือกรันที่ไฟล์ program.cs
